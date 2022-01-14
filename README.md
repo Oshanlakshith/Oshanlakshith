@@ -7,3 +7,4 @@
 -  Address : 299, Manana Govinna
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oshanlakshith&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oshanlakshith&show_icons=true&theme=radical)
