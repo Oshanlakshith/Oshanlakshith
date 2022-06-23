@@ -3,6 +3,7 @@
 - 🔭 I’m Oshan lakshitha
 - 🌱  Computer Science 
 - 💬 Ask me Whatsapp - 0763572516
+- 💬 Contact -0781368069
 - 📫  School : Govinna maha vidyalaya(2014-2019)
 -  Address : 299, Manana Govinna
 
